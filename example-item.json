@@ -1,6 +1,6 @@
 {
   "title": "Example Project",
-  "description": "This is an example description",
+  "description": "This is an example description, it's about to become a lot longer. Adding some mindless text here to see how well the component will handle wrapping the text field, we'll see how it goes, hopefully it goes well, I think it's programmed to handle this properly, but we will have to see.",
   "media": [
     {
       "type": "image",
@@ -12,7 +12,7 @@
     }
   ],
   "author": "glassyCannon",
-  "tags": ["example", "step", "stl", "accessory"],
+  "tags": ["example", ".45ACP", "STL", "accessory", "Hybrid Design"],
   "datePublished": "2024-03-12",
   "lastUpdated": "2024-03-12",
   "version": "1.0",
