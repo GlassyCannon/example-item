@@ -1,5 +1,4 @@
-{
-  {
+ {
   "title": "Example Project",
   "description": "This is an example description",
   "media": [
@@ -38,5 +37,4 @@
       "link": "https://www.youtube.com/@PrintShootRepeat"
     }
   ]
-}
-}
+ }
