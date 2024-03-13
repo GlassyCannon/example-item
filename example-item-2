@@ -1,0 +1,40 @@
+{
+  "title": "Example Project",
+  "description": "This is an example description, it's about to become a lot longer. Adding some mindless text here to see how well the component will handle wrapping the text field, we'll see how it goes, hopefully it goes well, I think it's programmed to handle this properly, but we will have to see.",
+  "media": [
+    {
+      "type": "image",
+      "link": "https://hk-usa.com/wp-content/uploads/1-MP5A2-NT-RIGHT-JULY-20161.jpg"
+    },
+    {
+      "type": "embed",
+      "link": ""<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5LN7Ksyvl05hFaGUnXocxR?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>""
+    }
+  ],
+  "author": "glassyCannon",
+  "tags": ["example", "9MM", "STL", "Hybrid Design"],
+  "datePublished": "2024-03-12",
+  "lastUpdated": "2024-03-12",
+  "version": "1.0",
+  "downloadLinks": [
+    {
+      "description": "Full Wowee Zowee (Odysee)",
+      "link": "https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/Custer%27s%20Revenge%20%28USA%29.zip"
+    },
+    {
+      "description": "Mirror (into Dreamland)",
+      "link": "https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/Dig%20Dug%20%28USA%29.zip"
+    }
+  ],
+  "devGroup": "The Evil BLC",
+  "otherLinks": [
+    {
+      "description": "Main Odysee Account",
+      "link": "https://www.google.com"
+    },
+    {
+      "description": "Youtube Page",
+      "link": "https://www.youtube.com/@PrintShootRepeat"
+    }
+  ]
+}
